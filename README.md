@@ -16,7 +16,7 @@ This single-page application was built as the final project of CS50x, include a 
 
 PS: For account safety reasons, the booking system will be only showed in the video demo.
 
-### How to use this project
+## How to use this project
 
 1. Clone this repository.
 
