@@ -24,7 +24,7 @@ Square appointments. I will try to replace it with my own app.
 
 PS: For account safety reasons, the booking system will be only shortly showed in the live demo.
 
-####Introduce the file structure and content:
+#### Introduce the file structure and content:
 
 public: static files like index.html and favicon.ico 
 src: builded components and images, index.js-main enternce, app.js-import conponents, and index.css-style the whole site along with bootstrap.
