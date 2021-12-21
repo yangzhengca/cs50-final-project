@@ -2,6 +2,8 @@
 
 ![Screenshot 2021-12-20 213353](https://user-images.githubusercontent.com/82341009/146866888-6d00f3d9-31c7-4273-a27c-a118991d1749.png)
 
+![Screenshot 2021-12-20 225232](https://user-images.githubusercontent.com/82341009/146873247-e9aecc34-7203-4737-88fc-38615d541916.png)
+
 This project was built with React, Bootstrap5, and Square appointments, deployed on Netlify.
 
 #### Video Demo
