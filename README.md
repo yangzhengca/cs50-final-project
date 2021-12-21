@@ -26,16 +26,20 @@ PS: For account safety reasons, the booking system will be only shortly showed i
 
 #### Introduce the file structure and content:
 
-public: static files like index.html and favicon.ico 
-src: builded components and images, index.js-main enternce, app.js-import conponents, and index.css-style the whole site along with bootstrap.
-node_modules: It contains all dependencies and sub-dependencies specified in package.json used by React app.
-.gitignore: This file is tells Git which files or folders to ignore in a project, so the files/folders list in this file won't be updata to github repo.
-package.json: It is a JSON file used for managing the project’s dependencies, scripts, version.
-package-lock. json: It is automatically generated for any operations where npm modifies either the node_modules tree or package.json. 
-It helps while a team is working on private apps to ensure that they are working on the same version of dependencies and sub-dependencies. 
-It also maintains a history of changes done in package.json so, that at any point of time, when required previous changes can be looked back in the package-lock.json file.
-readme.md: Project introduce and instructions.
+public: static files like index.html and favicon.ico
 
+src: builded components and images, index.js-main enternce, app.js-import conponents, and index.css-style the whole site along with bootstrap.
+
+node_modules: It contains all dependencies and sub-dependencies specified in package.json used by React app.
+
+.gitignore: This file is tells Git which files or folders to ignore in a project, so the files/folders list in this file won't be updata to github repo.
+
+package.json: It is a JSON file used for managing the project’s dependencies, scripts, version.
+
+package-lock. json: It is automatically generated for any operations where npm modifies either the node_modules tree or package.json. 
+It helps while a team is working on private apps to ensure that they are working on the same version of dependencies and sub-dependencies. It also maintains a history of changes done in package.json so, that at any point of time, when required previous changes can be looked back in the package-lock.json file.
+
+readme.md: Project introduce and instructions.
 
 ## How to use this project
 
